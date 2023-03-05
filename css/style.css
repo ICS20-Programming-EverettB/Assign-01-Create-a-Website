@@ -22,4 +22,11 @@ h6 {
 p {
   text-align: center;
   color: brown;
+  font-size: 150%;
+}
+h4 {
+  color: saddlebrown;
+}
+a {
+  color: brown;
 }
