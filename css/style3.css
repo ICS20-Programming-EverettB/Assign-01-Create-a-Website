@@ -3,29 +3,29 @@ html {
   width: 100%;
 }
 body {
-  background-color: coral;
+  background-color: #a21111;
 }
 h2 {
-  color:saddlebrown;
+  color:yellow;
   text-align: center;
 }
 h3 {
-  color: brown;
+  color: yellow;
   text-align: center;
 }
 h6 {
- color: orange;
-  background: saddlebrown;
+ color: yellow;
+  background: #ee6f59;
   text-align: center;
 }
 p {
   text-align: center;
-  color: brown;
+  color: yellow;
   font-size: 150%;
 }
 h4 {
-  color: saddlebrown;
+  color: yellow;
 }
 a {
-  color: brown;
+  color: #c4e44e;
 }
